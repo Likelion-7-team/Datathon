@@ -1,5 +1,5 @@
 # Datathon
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Single&size=30&pause=1000&width=435&lines=Finance+Data+Analysis" alt="Typing SVG" /></a>
 
 • 프로젝트 개요: 금융 or 이커머스 데이터분석 프로젝트
 
