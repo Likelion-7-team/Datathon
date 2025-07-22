@@ -16,4 +16,5 @@
 
 
 <데이터 명세서>
-[__________.csv](https://github.com/user-attachments/files/20477676/__________.csv)
+csv 파일 넣어주세요 !
+
